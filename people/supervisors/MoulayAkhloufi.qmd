@@ -1,0 +1,22 @@
+---
+title: "Moulay Akhloufi"
+sortby: "Akhloufi, Moulay"
+subtitle: "Project Partner"
+image: ../../images/people/YourFolder/YourImage.jpg
+affiliation: "Université de Moncton"
+toc: false
+about:
+  id: person-profile
+  template: jolla
+  #links:
+  #- text: GitHub
+  #  href: https://github.com/yourgithub
+  #- text: Email
+  #  href: mailto:youremail@utoronto.ca
+---
+
+::: {#person-profile}
+:::
+## Biography
+
+Moulay Akhloufi has a PhD (Laval University) and a MScA (Ecole Polytechnique de Montreal), both in Electrical Engineering with focus in computer vision, robotics and machine learning. He also holds an MBA from Laval University. After more than 15 years of industrial R&D and technology transfer experience in Matrox ES and CRVI, he joined the Computer Science Department of Université de Moncton. He founded the Perception, Robotics and Intelligent Machines (PRIME) research group with the aim to develop advanced AI research, train highly qualified personnel in this area, and support the industry in acquiring advanced AI solutions to solve their problems.

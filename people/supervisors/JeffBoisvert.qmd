@@ -1,0 +1,22 @@
+---
+title: "Jeff Boisvert"
+sortby: "Boisvert, Jeff"
+subtitle: "Project Partner"
+image: ../../images/people/YourFolder/YourImage.jpg
+affiliation: "University of Alberta"
+toc: false
+about:
+  id: person-profile
+  template: jolla
+  #links:
+  #- text: GitHub
+  #  href: https://github.com/yourgithub
+  #- text: Email
+  #  href: mailto:youremail@utoronto.ca
+---
+
+::: {#person-profile}
+:::
+## Biography
+
+Jeff Boisvert is a professor in Civil and Environmental Engineering at the University of Alberta and co-director of the Centre for Computational Geostatistics (CCG). His research interests concentrate on geostatistical numerical modeling and uncertainty management with a focus on mining, petroleum, and wildland fire. Numerical modeling is concerned with generating a set of spatial models of variables such as mineral grade, contaminates, flow properties, fire behavior, etc. These models are used to make important engineering decisions in mine design, exploration campaign design, wildland fire management, preplanning, well placement, well management and contaminate cleanup strategies. Uncertainty management focuses on making these engineering decisions in an optimal way that maximizes value, minimizes environmental impact, and minimizes risk. Numerical modeling and uncertainty management are often framed as optimization problems and so he often use machine learning, artificial intelligence, and optimization techniques to improve solutions.

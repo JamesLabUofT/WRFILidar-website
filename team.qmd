@@ -1,0 +1,68 @@
+---
+title: "team"
+format: html
+pagetitle: "People"
+toc: false
+listing:
+  - id: supervisors
+    contents: "people/supervisors/*.qmd"
+    type: grid
+    image-height: 225px
+    grid-columns: 3
+    fields: [image, title, subtitle]
+    grid-item-align: center
+    sort: sortby
+    field-display-names: 
+      affiliation: "Affiliation"
+  - id: postdocs
+    contents: "people/PDFs/*.qmd"
+    type: grid
+    image-height: 225px
+    grid-columns: 3
+    sort: sortby
+    fields: [image, title, subtitle, started]
+    field-display-names: 
+      started: "Started"
+    grid-item-align: center
+  - id: phds
+    contents: "people/PhDs/*.qmd"
+    type: grid
+    image-height: 225px
+    grid-columns: 3
+    sort: sortby
+    fields: [image, title, subtitle, started]
+    field-display-names: 
+      started: "Started"
+    grid-item-align: center
+  - id: mscs
+    contents: "people/Masters/*.qmd"
+    type: grid
+    image-height: 225px
+    grid-columns: 3
+    sort: sortby
+    fields: [image, title, subtitle, started]
+    field-display-names: 
+      started: "Started"
+    grid-item-align: center
+---
+
+
+## Supervisors
+
+:::{#supervisors}
+:::
+
+## Postdoctoral researchers
+
+:::{#postdocs}
+:::
+
+## PhD students
+
+:::{#phds}
+:::
+
+## Masters students
+
+:::{#mscs}
+:::

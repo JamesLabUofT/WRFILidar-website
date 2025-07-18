@@ -1,0 +1,22 @@
+---
+title: "Patrick James"
+sortby: "James, Patrick"
+subtitle: "Principal Investigator"
+image: ../../images/people/YourFolder/YourImage.jpg
+affiliation: "University of Toronto"
+toc: false
+about:
+  id: person-profile
+  template: jolla
+  #links:
+  #- text: GitHub
+  #  href: https://github.com/yourgithub
+  #- text: Email
+  #  href: mailto:youremail@utoronto.ca
+---
+
+::: {#person-profile}
+:::
+## Biography
+
+Patrick James completed his BSc and PhD at the University of Toronto and undertook a post-doc at the University of Alberta. After several years working at the Université de Montreal, he returned to Daniels Forestry at the University of Toronto. His varied research interests include interactions among forest disturbances, insect outbreaks, wildfire, spatial genetic consequences of outbreaking populations, landscape genetics, and community ecology.

@@ -1,0 +1,22 @@
+---
+title: "Laura Chasmer"
+sortby: "Chasmer, Laura"
+subtitle: "Project Partner"
+image: ../../images/people/YourFolder/YourImage.jpg
+affiliation: "University of Lethbridge"
+toc: false
+about:
+  id: person-profile
+  template: jolla
+  #links:
+  #- text: GitHub
+  #  href: https://github.com/yourgithub
+  #- text: Email
+  #  href: mailto:youremail@utoronto.ca
+---
+
+::: {#person-profile}
+:::
+## Biography
+
+Laura Chasmer is an Assistant Professor at the University of Lethbridge and previously an Alberta Innovates Research Fellow. Her interests include using geospatial, hydro-meteorological and field data to better understand Boreal wetland, forest and discontinuous permafrost changes within natural and disturbed environments. She's also interested in the environmental processes that both influence and are affected by these changes. Her research uses a broad range of cutting-edge methodologies from individual tree/plant to plot, stand, and extrapolation of land surface processes to regional scales. She has led and co-authored more than 60 peer reviewed journal articles and proceedings papers.

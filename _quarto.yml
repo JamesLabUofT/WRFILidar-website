@@ -7,11 +7,17 @@ website:
     left:
       - href: index.qmd
         text: Home
+      - href: team.qmd
+        text: Team
+      - href: technology.qmd
+        text: Tech
+      - href: goals.qmd
+        text: Goals
       - about.qmd
 
 format:
   html:
-    theme: cosmo
+    theme: united
     css: styles.css
     toc: true
 

@@ -2,10 +2,8 @@
 title: "WRFILidar-website"
 ---
 
-This is a Quarto website.
+## Advancing Forest Fuels Characterization Using Lidar
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Increasing wildfire activity poses a significant threat to ecosystems, communities, and infrastructure in Canada, necessitating proactive wildfire risk assessment and mitigation strategies. Central to these strategies is the characterization of forest fuels (combustible live and dead vegetation, litter, and woody debris), and methods to link those fuels to fire hazard (e.g. fire intensity, rate of spread).
 
-```{r}
-1 + 1
-```
+Our research aims to address the need to quantify fuel structures to improve understanding of fire behaviour in Canada's changing forest environments.
