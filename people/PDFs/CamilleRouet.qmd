@@ -1,7 +1,7 @@
 ---
 title: "Camille Rouet"
 sortby: "Rouet, Camille"
-affiliation: "Université de Sherbrooke"
+subtitle: "Université de Sherbrooke"
 image: ../../photos/people/DefaultPic.png
 toc: false
 about:

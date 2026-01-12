@@ -1,7 +1,7 @@
 ---
 title: "First Last"
 sortby: "Last, First"
-affiliation: "University of ..."
+subtitle: "University of ..."
 image: ../../photos/people/DefaultPic.png
 toc: false
 about:

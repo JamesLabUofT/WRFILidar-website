@@ -1,9 +1,8 @@
 ---
 title: "Patrick James"
 sortby: "James, Patrick"
-subtitle: "Principal Investigator"
-image: ../../images/people/YourFolder/YourImage.jpg
-affiliation: "University of Toronto"
+image: ../../photos/supervisors/Patrick-James.png
+subtitle: "University of Toronto"
 toc: false
 about:
   id: person-profile

@@ -1,7 +1,7 @@
 ---
 title: "Erfan Hasanpour Zaryabi"
 sortby: "Hasanpour Zaryabi, Erfan"
-affiliation: "University of Alberta"
+subtitle: "University of Alberta"
 image: ../../photos/people/DefaultPic.png
 toc: false
 about:

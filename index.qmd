@@ -1,5 +1,14 @@
 ---
-title: "WRFILidar-website"
+title: "WRFI Lidar"
+listing:
+  - id: supervisors
+    contents: "people/supervisors/*.qmd"
+    type: grid
+    image-height: 250px
+    grid-columns: 3
+    fields: [image, title]
+    grid-item-align: center
+    sort: sortby
 ---
 
 ## Advancing Forest Fuels Characterization Using Lidar
@@ -7,3 +16,8 @@ title: "WRFILidar-website"
 Increasing wildfire activity poses a significant threat to ecosystems, communities, and infrastructure in Canada, necessitating proactive wildfire risk assessment and mitigation strategies. Central to these strategies is the characterization of forest fuels (combustible live and dead vegetation, litter, and woody debris), and methods to link those fuels to fire hazard (e.g. fire intensity, rate of spread).
 
 Our research aims to address the need to quantify fuel structures to improve understanding of fire behaviour in Canada's changing forest environments.
+
+### The team
+
+::: {#supervisors}
+:::

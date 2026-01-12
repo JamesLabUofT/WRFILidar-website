@@ -1,9 +1,8 @@
 ---
 title: "Chris Hopkinson"
 sortby: "Hopkinson, Chris"
-subtitle: "Principal Investigator"
 image: ../../photos/supervisors/Hopkinson.png
-affiliation: "University of Western"
+subtitle: "Western University"
 toc: false
 about:
   id: person-profile

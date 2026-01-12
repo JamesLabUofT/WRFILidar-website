@@ -1,7 +1,7 @@
 ---
 title: "Fynn De Vuono-Fraser"
 sortby: "De Vuono-Fraser, Fynn"
-affiliation: "University of Toronto"
+subtitle: "University of Toronto"
 image: ../../photos/people/FynnFraser.png
 toc: false
 about:

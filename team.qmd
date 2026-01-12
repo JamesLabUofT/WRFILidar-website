@@ -1,7 +1,7 @@
 ---
-title: "team"
+title: "Our team"
 format: html
-pagetitle: "People"
+pagetitle: "Team"
 toc: false
 listing:
   - id: supervisors
@@ -9,20 +9,16 @@ listing:
     type: grid
     image-height: 225px
     grid-columns: 3
-    fields: [image, title]
+    fields: [image, title, subtitle]
     grid-item-align: center
     sort: sortby
-    field-display-names: 
-      affiliation: "Affiliation"
   - id: staff
-    contents: "people/staff/*.qmd"
+    contents: "people/Staff/*.qmd"
     type: grid
     image-height: 225px
     grid-columns: 3
     sort: sortby
-    fields: [image, title]
-    field-display-names: 
-      affiliation: "Affiliation"
+    fields: [image, title, subtitle]
     grid-item-align: center
   - id: postdocs
     contents: "people/PDFs/*.qmd"
@@ -30,9 +26,7 @@ listing:
     image-height: 225px
     grid-columns: 3
     sort: sortby
-    fields: [image, title]
-    field-display-names: 
-      affiliation: "Affiliation"
+    fields: [image, title, subtitle]
     grid-item-align: center
   - id: phds
     contents: "people/PhDs/*.qmd"
@@ -40,9 +34,7 @@ listing:
     image-height: 225px
     grid-columns: 3
     sort: sortby
-    fields: [image, title]
-    field-display-names: 
-      affiliation: "Affiliation"
+    fields: [image, title, subtitle]
     grid-item-align: center
   - id: mscs
     contents: "people/Masters/*.qmd"
@@ -50,9 +42,7 @@ listing:
     image-height: 225px
     grid-columns: 3
     sort: sortby
-    fields: [image, title]
-    field-display-names: 
-      affiliation: "Affiliation"
+    fields: [image, title, subtitle]
     grid-item-align: center
 ---
 

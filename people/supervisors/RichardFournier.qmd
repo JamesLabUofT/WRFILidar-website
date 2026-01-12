@@ -1,9 +1,8 @@
 ---
 title: "Richard Fournier"
 sortby: "Fournier, Richard"
-subtitle: "Principal Investigator"
 image: ../../photos/supervisors/Fournier.jpg
-affiliation: "Université de Sherbrooke"
+subtitle: "Université de Sherbrooke"
 toc: false
 about:
   id: person-profile

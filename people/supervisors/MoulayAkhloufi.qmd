@@ -1,9 +1,8 @@
 ---
 title: "Moulay Akhloufi"
 sortby: "Akhloufi, Moulay"
-subtitle: "Principal Investigator"
 image: ../../photos/supervisors/Akhloufi.jpg
-affiliation: "Université de Moncton"
+subtitle: "Université de Moncton"
 toc: false
 about:
   id: person-profile

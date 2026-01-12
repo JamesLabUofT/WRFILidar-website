@@ -1,9 +1,8 @@
 ---
 title: "Jeff Boisvert"
 sortby: "Boisvert, Jeff"
-subtitle: "Principal Investigator"
 image: ../../photos/supervisors/Boisvert.jpg
-affiliation: "University of Alberta"
+subtitle: "University of Alberta"
 toc: false
 about:
   id: person-profile

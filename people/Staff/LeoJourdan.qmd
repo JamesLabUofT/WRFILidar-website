@@ -1,7 +1,7 @@
 ---
 title: "Léo Jourdan"
 sortby: "Jourdan, Léo"
-affiliation: "University of Toronto"
+subtitle: "University of Toronto"
 image: ../../photos/people/LeoJourdan.jpg
 toc: false
 about:
