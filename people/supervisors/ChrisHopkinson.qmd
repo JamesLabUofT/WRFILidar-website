@@ -1,21 +1,23 @@
 ---
 title: "Chris Hopkinson"
 sortby: "Hopkinson, Chris"
-subtitle: "Project Partner"
-image: ../../images/people/YourFolder/YourImage.jpg
-affiliation: "University of Lethbridge"
+subtitle: "Principal Investigator"
+image: ../../photos/supervisors/Hopkinson.png
+affiliation: "University of Western"
 toc: false
 about:
   id: person-profile
   template: jolla
-  #links:
-  #- text: GitHub
-  #  href: https://github.com/yourgithub
+  links:
+  - text: Lab website
+    href: https://artemis-lab.mystrikingly.com/
   #- text: Email
   #  href: mailto:youremail@utoronto.ca
 ---
 
 ::: {#person-profile}
 :::
+
 ## Biography
-Chris Hopkinson is the Campus Alberta Innovates Program (CAIP) Research Chair in Terrestrial Ecosystems Remote Sensing. He was appointed to this position in 2013 after spending a year as a visiting environmental scientist with the Commonwealth Scientific and Industrial Research Organisation (CSIRO) in Canberra, Australia. Prior to this he led the airborne lidar research and outreach activities of the Canadian Consortium for Lidar Environmental Applications Research (C-CLEAR) while employed as a research scientist and lecturer at the Applied Geomatics Research Group in Nova Scotia. 
+
+Chris Hopkinson is the Campus Alberta Innovates Program (CAIP) Research Chair in Terrestrial Ecosystems Remote Sensing. He was appointed to this position in 2013 after spending a year as a visiting environmental scientist with the Commonwealth Scientific and Industrial Research Organisation (CSIRO) in Canberra, Australia. Prior to this he led the airborne lidar research and outreach activities of the Canadian Consortium for Lidar Environmental Applications Research (C-CLEAR) while employed as a research scientist and lecturer at the Applied Geomatics Research Group in Nova Scotia.

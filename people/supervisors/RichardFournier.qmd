@@ -1,22 +1,23 @@
 ---
 title: "Richard Fournier"
 sortby: "Fournier, Richard"
-subtitle: "Project Partner"
-image: ../../images/people/YourFolder/YourImage.jpg
+subtitle: "Principal Investigator"
+image: ../../photos/supervisors/Fournier.jpg
 affiliation: "Université de Sherbrooke"
 toc: false
 about:
   id: person-profile
   template: jolla
-  #links:
-  #- text: GitHub
-  #  href: https://github.com/yourgithub
+  links:
+  - text: About Richard
+    href: https://www.usherbrooke.ca/geomatique/departement/personnel/personnel-enseignant/richard-fournier
   #- text: Email
   #  href: mailto:youremail@utoronto.ca
 ---
 
 ::: {#person-profile}
 :::
+
 ## Biography
 
 Les travaux de recherches de Richard Fournier concernent la télédétection des écosystèmes végétaux naturels tels la forêt et les milieux humides. Mon sujet privilégié est le développement d’outils d’analyse des données 3D du LiDAR terrestre dans le cadre des inventaires forestiers (le LiDAR est particulièrement bien adapté pour mesurer des paramètres autrement difficiles à obtenir). Il cherche d’ailleurs à améliorer la capacité de mesurer les couverts forestiers avec le LiDAR aéroporté et d’autres outils de télédétection comme les images satellitaires optique/infrarouge de toutes les résolutions spatiales. Il consacre finalement un certain temps sur des études portant sur des problématiques de conservation des écosystèmes et l’utilisation d’outils géomatiques pour la gestion par bassin versant.

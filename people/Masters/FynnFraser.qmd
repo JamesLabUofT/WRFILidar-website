@@ -1,0 +1,22 @@
+---
+title: "Fynn De Vuono-Fraser"
+sortby: "De Vuono-Fraser, Fynn"
+affiliation: "University of Toronto"
+image: ../../photos/people/FynnFraser.png
+toc: false
+about:
+  id: person-profile
+  template: jolla
+  #links:
+  #- text: GitHub
+  #  href: https://github.com/yourgithub
+  #- text: Email
+  #  href: mailto:youremail@utoronto.ca
+---
+
+::: {#person-profile}
+:::
+
+## Biography
+
+Fynn is a statistician with a strong interest in environmental applications and was introduced to forestry through his summer job as a tree planter. He is currently studying harvested forest fuel structure and fire behaviour through LiDAR scanning and prescribed burns, to determine how harvesting can be utilized to mitigate wildfire risk.

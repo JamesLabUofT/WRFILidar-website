@@ -1,0 +1,22 @@
+---
+title: "Léo Jourdan"
+sortby: "Jourdan, Léo"
+affiliation: "University of Toronto"
+image: ../../photos/people/LeoJourdan.jpg
+toc: false
+about:
+  id: person-profile
+  template: jolla
+  #links:
+  #- text: GitHub
+  #  href: https://github.com/yourgithub
+  #- text: Email
+  #  href: mailto:youremail@utoronto.ca
+---
+
+::: {#person-profile}
+:::
+
+## Biography
+
+Léo Jourdan is a Research Assistant in the James Lab at the University of Toronto’s Institute of Forestry and Conservation and is the project coordinator for this research program. Léo has a BSc in Computer Science and Mathematics, and recently completed his MScF degree at the University of Toronto, in which he characterized fuels using Terrestrial Lidar, and studied the impact of jack pine budworm outbreaks on fuel structure.
