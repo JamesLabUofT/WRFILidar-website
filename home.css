@@ -1,0 +1,58 @@
+/* css styles */
+/* Disable Quarto page grid */
+.page-columns {
+  display: block !important;
+}
+
+/* Remove column constraints */
+.page-columns > * {
+  grid-column: auto !important;
+}
+.quarto-title > h1.title {
+  opacity: 0 !important;
+  height:0;
+}
+/* Remove width limits */
+main.content {
+  max-width: none !important;
+  width: 100% !important;
+}
+.grid {
+  place-items: center;
+}
+
+.home-body {
+  padding-inline: 7%;
+}
+
+.image-credit {
+  text-align: right;
+  font-size: 75%;
+  opacity: 50%;
+}
+.figure-caption {
+  text-align: right;
+  font-size: 75%;
+  opacity: 50%;
+}
+
+.home-banner {
+  background-image: url("photos/HomePage/FireBannerMC.jpg");
+  aspect-ratio: 3017 / 1296; 
+  width:; 100%;
+  display: flex;                
+  flex-direction: column;    
+  line-height: 1.1;   
+  justify-content: flex-end; 
+  font-size: 5vw;
+  text-align: center;
+  color: white;
+  vertical-align: bottom;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-color: grey;
+}
+
+.problem-statement {
+  font-size: max(1rem, 1.8vw);
+}

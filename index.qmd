@@ -1,23 +1,130 @@
 ---
 title: "WRFI Lidar"
+
+format:
+  html:
+    page-layout: full
+    margin-width: 0px
+    
+body-class: no-grid
+css: home.css
 listing:
   - id: supervisors
     contents: "people/supervisors/*.qmd"
     type: grid
     image-height: 250px
     grid-columns: 3
-    fields: [image, title]
+    fields: [image, title, subtitle]
     grid-item-align: center
     sort: sortby
 ---
 
-## Advancing Forest Fuels Characterization Using Lidar
+::: home-banner
+**Advancing Forest Fuels Characterization Using Lidar**
+:::
+::: image-credit
+image credit: xxxxx
+:::
+:::::::::::::::::::::: home-body
+\
+\
 
-Increasing wildfire activity poses a significant threat to ecosystems, communities, and infrastructure in Canada, necessitating proactive wildfire risk assessment and mitigation strategies. Central to these strategies is the characterization of forest fuels (combustible live and dead vegetation, litter, and woody debris), and methods to link those fuels to fire hazard (e.g. fire intensity, rate of spread).
+:::::: grid
+::: g-col-5
+![image credit: xxxxx](photos/HomePage/FireUpCloseMC.jpg)
+:::
 
-Our research aims to address the need to quantify fuel structures to improve understanding of fire behaviour in Canada's changing forest environments.
+:::: g-col-7
+::: problem-statement
+Wildfire activity is increasing in Canada due to climate change, posing a significant threat to ecosystems, communities and infrastructure.
 
-### The team
+\
+
+Proactive wildfire risk assessment and mitigation strategies are necessary to better understand and respond to these changes.
+:::
+::::
+::::::
+
+\
+\
+
+:::::: grid
+:::: g-col-7
+::: problem-statement
+Central to fire mitigation strategies are the characterization of forest fuels (combustible vegetation, litter, and wood debris) and methods to link those fuels to expected fire behaviour (e.g. fire intensity, rate of spread).
+
+\
+
+Funded through Natural Resources Canada's Wildfire Resilient Futures Initiative (WRFI), our research project aims to address the need to quantify fuel structures to improve understanding of fire behaviour in Canada's changing forest environments.
+:::
+::::
+
+::: g-col-5
+![image credit: Patrick James](photos/HomePage/BurnIntensity.JPG)
+:::
+::::::
+
+\
+\
+\
+\
+\
+
+### Our research project is organized around four overarching goals.
+
+*Read more about them [here](goals.html).*
+
+::::::: grid
+::: g-col-2
+![](photos/goals/Goal1-pictogram.png)
+:::
+
+::: g-col-4
+**Optimizing ground-based lidar protocols**
+:::
+
+::: g-col-2
+![](photos/goals/Goal3-pictogram.png)
+:::
+
+::: g-col-4
+**Quantifying fuel connectivity**
+:::
+:::::::
+
+::::::: grid
+::: g-col-2
+![](photos/goals/Goal2-pictogram.png)
+:::
+
+::: g-col-4
+**Upscaling from terrestrial to airborne lidar**
+:::
+
+::: g-col-2
+![](photos/goals/Goal4-pictogram.png)
+:::
+
+::: g-col-4
+**Creating novel tools for risk assessment**
+:::
+:::::::
+
+:::::::::::::::::::::: 
+
+\
+\
+
+![image credit: xxxxx](photos/HomePage/FireAfar2MC.jpg)
+
+:::::::::::::::::::::: home-body
+\
+\
+
+### Our team
+
+*See the full list of researchers working toward our goals [here](team.html).*
 
 ::: {#supervisors}
 :::
+::::::::::::::::::::::
