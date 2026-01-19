@@ -12,7 +12,7 @@ listing:
   - id: supervisors
     contents: "people/supervisors/*.qmd"
     type: grid
-    image-height: 250px
+    image-height: auto
     grid-columns: 3
     fields: [image, title, subtitle]
     grid-item-align: center
@@ -29,14 +29,14 @@ image credit: xxxxx
 \
 \
 
-:::::: grid
+:::::: {.grid .centre-items}
 ::: g-col-5
 ![image credit: xxxxx](photos/HomePage/FireUpCloseMC.jpg)
 :::
 
 :::: g-col-7
 ::: problem-statement
-Wildfire activity is increasing in Canada due to climate change, posing a significant threat to ecosystems, communities and infrastructure.
+**Wildfire activity is increasing in Canada** due to climate change, posing a significant threat to ecosystems, communities and infrastructure.
 
 \
 
@@ -48,14 +48,14 @@ Proactive wildfire risk assessment and mitigation strategies are necessary to be
 \
 \
 
-:::::: grid
+:::::: {.grid .centre-items}
 :::: g-col-7
 ::: problem-statement
-Central to fire mitigation strategies are the characterization of forest fuels (combustible vegetation, litter, and wood debris) and methods to link those fuels to expected fire behaviour (e.g. fire intensity, rate of spread).
+Central to fire mitigation strategies are the **characterization of forest fuels** (combustible vegetation, litter, and wood debris) and methods to **link those fuels to expected fire behaviour** (e.g. fire intensity, rate of spread).
 
 \
 
-Funded through Natural Resources Canada's Wildfire Resilient Futures Initiative (WRFI), our research project aims to address the need to quantify fuel structures to improve understanding of fire behaviour in Canada's changing forest environments.
+Funded through **Natural Resources Canada's Wildfire Resilient Futures Initiative** (WRFI), our research project aims to address the need to quantify fuel structures to improve understanding of fire behaviour in Canada's changing forest environments.
 :::
 ::::
 
@@ -79,7 +79,7 @@ Funded through Natural Resources Canada's Wildfire Resilient Futures Initiative 
 ![](photos/goals/Goal1-pictogram.png)
 :::
 
-::: g-col-4
+::: {.g-col-4 .goal-title}
 **Optimizing ground-based lidar protocols**
 :::
 
@@ -87,7 +87,7 @@ Funded through Natural Resources Canada's Wildfire Resilient Futures Initiative 
 ![](photos/goals/Goal3-pictogram.png)
 :::
 
-::: g-col-4
+::: {.g-col-4 .goal-title}
 **Quantifying fuel connectivity**
 :::
 :::::::
@@ -97,7 +97,7 @@ Funded through Natural Resources Canada's Wildfire Resilient Futures Initiative 
 ![](photos/goals/Goal2-pictogram.png)
 :::
 
-::: g-col-4
+::: {.g-col-4 .goal-title}
 **Upscaling from terrestrial to airborne lidar**
 :::
 
@@ -105,7 +105,7 @@ Funded through Natural Resources Canada's Wildfire Resilient Futures Initiative 
 ![](photos/goals/Goal4-pictogram.png)
 :::
 
-::: g-col-4
+::: {.g-col-4 .goal-title}
 **Creating novel tools for risk assessment**
 :::
 :::::::
@@ -125,6 +125,6 @@ Funded through Natural Resources Canada's Wildfire Resilient Futures Initiative 
 
 *See the full list of researchers working toward our goals [here](team.html).*
 
-::: {#supervisors}
+::: {#supervisors .listing-supervisors}
 :::
 ::::::::::::::::::::::

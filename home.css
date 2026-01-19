@@ -17,12 +17,22 @@ main.content {
   max-width: none !important;
   width: 100% !important;
 }
-.grid {
+
+
+.centre-items{
   place-items: center;
 }
 
 .home-body {
   padding-inline: 7%;
+}
+
+.goal-title {
+  display: flex;
+  font-size:150%;
+  color: #444444;
+  text-align: left;
+  align-items: center;
 }
 
 .image-credit {
@@ -35,11 +45,22 @@ main.content {
   font-size: 75%;
   opacity: 50%;
 }
-
+.listing-supervisors {
+  align-items: center;
+  padding-inline: 10%;
+  .g-col-1 {
+    padding-inline: 10%;
+    height:auto;
+  }
+  .g-col-1 img {
+    height:auto;
+  }
+    
+ }
 .home-banner {
   background-image: url("photos/HomePage/FireBannerMC.jpg");
   aspect-ratio: 3017 / 1296; 
-  width:; 100%;
+  width: 100%;
   display: flex;                
   flex-direction: column;    
   line-height: 1.1;   

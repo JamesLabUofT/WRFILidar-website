@@ -1,0 +1,20 @@
+---
+title: "Contact"
+css: contact.css
+---
+::: home-banner
+
+::: contact
+**Prof. Patrick James**
+
+patrick.james"\_at\_"utoronto.ca
+
+Daniels Faculty<br>
+University of Toronto<br>
+33 Willcocks Street<br>
+Toronto, ON  M5S 3B3
+:::
+:::
+::: image-credit
+image credit: xxxxx
+:::

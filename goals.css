@@ -1,3 +1,14 @@
 .grid {
   place-items: center;
+} 
+.image-credit {
+  padding-top:0;
+  text-align: right;
+  font-size: 75%;
+  opacity: 50%;
+}
+.figure-caption {
+  text-align: right;
+  font-size: 75%;
+  opacity: 50%;
 }
