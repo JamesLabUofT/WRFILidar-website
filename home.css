@@ -1,0 +1,79 @@
+/* css styles */
+/* Disable Quarto page grid */
+.page-columns {
+  display: block !important;
+}
+
+/* Remove column constraints */
+.page-columns > * {
+  grid-column: auto !important;
+}
+.quarto-title > h1.title {
+  opacity: 0 !important;
+  height:0;
+}
+/* Remove width limits */
+main.content {
+  max-width: none !important;
+  width: 100% !important;
+}
+
+
+.centre-items{
+  place-items: center;
+}
+
+.home-body {
+  padding-inline: 7%;
+}
+
+.goal-title {
+  display: flex;
+  font-size:150%;
+  color: #444444;
+  text-align: left;
+  align-items: center;
+}
+
+.image-credit {
+  text-align: right;
+  font-size: 75%;
+  opacity: 50%;
+}
+.figure-caption {
+  text-align: right;
+  font-size: 75%;
+  opacity: 50%;
+}
+.listing-supervisors {
+  align-items: center;
+  padding-inline: 10%;
+  .g-col-1 {
+    padding-inline: 10%;
+    height:auto;
+  }
+  .g-col-1 img {
+    height:auto;
+  }
+    
+ }
+.home-banner {
+  background-image: url("photos/HomePage/FireBannerMC.jpg");
+  aspect-ratio: 3017 / 1296; 
+  width: 100%;
+  display: flex;                
+  flex-direction: column;    
+  line-height: 1.1;   
+  justify-content: flex-end; 
+  font-size: 5vw;
+  text-align: center;
+  color: white;
+  vertical-align: bottom;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-color: grey;
+}
+
+.problem-statement {
+  font-size: max(1rem, 1.8vw);
+}
