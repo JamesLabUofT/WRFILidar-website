@@ -8,6 +8,10 @@
 .page-columns > * {
   grid-column: auto !important;
 }
+.quarto-title-block {
+  
+  margin-block-end: 0 !important;
+}
 .quarto-title > h1.title {
   opacity: 0 !important;
   height:0;
@@ -16,6 +20,7 @@
 main.content {
   max-width: none !important;
   width: 100% !important;
+  padding-top: 0px !important;
 }
 
 .home-banner {
