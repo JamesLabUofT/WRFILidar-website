@@ -1,0 +1,71 @@
+/* css styles */
+/* Disable Quarto page grid */
+.page-columns {
+  display: block !important;
+}
+
+/* Remove column constraints */
+.page-columns > * {
+  grid-column: auto !important;
+}
+.quarto-title-block {
+  
+  margin-block-end: 0 !important;
+}
+.quarto-title > h1.title {
+  opacity: 0 !important;
+  height:0;
+}
+.centre-items{
+  place-items: center;
+}
+/* Remove width limits */
+main.content {
+  max-width: none !important;
+  width: 100% !important;
+  padding-top: 0px !important;
+}
+
+.university-logo {
+  display: grid;
+  grid-auto-columns: minmax(0, 1fr);
+  grid-auto-flow: column;
+  img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }  
+}
+
+.logo {
+  width: 100%;
+  place-items: center;
+}
+
+.partners{
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+  gap: 1rem;
+  align-items: center;
+  img {
+    height: 15vw;
+    width: 100%;
+    object-fit: contain;
+  }
+  .figure-caption{
+    text-align: center;
+    font-size: 90%;
+    opacity: 100%;
+  }
+}
+
+
+.about-body {
+  padding-inline: 7%;
+  font-size: max(1rem, 1.8vw);
+}
+.figure-caption {
+  text-align: right;
+  font-size: 75%;
+  opacity: 50%;
+}

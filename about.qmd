@@ -1,0 +1,82 @@
+---
+title: "About"
+css: about.css
+format: html
+---
+![image credit: xxxxx](photos/about/top_banner.jpg)
+
+::::::: about-body
+
+Our [research team](/team.html) is national in scope and is composed of researchers from six universities: 
+
+:::::: {.grid .university-logo .centre-items}
+::: {.g-col-4 .logo}
+![](photos/about/partners/university-of-alberta-logo.jpg)
+
+:::
+::: {.g-col-4 .logo}
+![](photos/about/partners/UofTLogo.png)
+
+
+
+:::
+::: {.g-col-4 .logo}
+
+![](photos/about/partners/UMoncton.jpg)
+
+
+:::
+::::::
+
+:::::: {.grid .university-logo .centre-items}
+::: {.g-col-4 .logo}
+
+![](photos/about/partners/LethbridgeLogo.png)
+:::
+::: {.g-col-4 .logo}
+
+![](photos/about/partners/Western.png)
+:::
+::: {.g-col-4 .logo}
+
+![](photos/about/partners/Usherbrooke.png)
+:::
+::::::
+::::::: 
+
+![image credit: xxxxx](photos/about/middle_banner.jpg)
+
+::: about-body
+
+:::::: {.grid .centre-items}
+
+::: g-col-4
+![](photos/about/partners/Nrcan.png)
+
+:::
+
+::: g-col-8
+The WRFI lidar research project is being suppported through funding from **Natural Resources Canada's Wildfire Resilient Futures Initiative (WRFI)**, as well as contributions from partners and collaborators:
+:::
+::::::
+
+\
+
+:::::: {.grid .partners}
+::: .g-col-3
+[![Whitefeather Forest Initiative](photos/about/partners/WFCRMA.png)](https://www.whitefeatherforest.ca/)
+:::
+::: .g-col-3
+[![ApexRMS](photos/about/partners/ApexRMS.png)](https://apexrms.com/)
+:::
+::: .g-col-3
+[![Canadian Forest Service](photos/about/partners/CFS.jpg)](https://natural-resources.canada.ca/corporate/corporate-overview/canadian-forest-service)
+:::
+::: .g-col-3
+[![Ontario Ministry of Natural Resources](photos/about/partners/MNR.png)](https://www.ontario.ca/page/ministry-natural-resources)
+:::
+::::::
+:::
+
+![image credit: xxxxx](photos/about/bottom_banner.jpg)
+
