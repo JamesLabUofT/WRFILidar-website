@@ -1,5 +1,16 @@
 [
   {
+    "listing": "/index.html",
+    "items": [
+      "/people/supervisors/MoulayAkhloufi.html",
+      "/people/supervisors/JeffBoisvert.html",
+      "/people/supervisors/LauraChasmer.html",
+      "/people/supervisors/RichardFournier.html",
+      "/people/supervisors/ChrisHopkinson.html",
+      "/people/supervisors/PatrickJames.html"
+    ]
+  },
+  {
     "listing": "/team.html",
     "items": [
       "/people/supervisors/MoulayAkhloufi.html",
@@ -16,17 +27,6 @@
       "/people/PhDs/JoSilva.html",
       "/people/Masters/FynnFraser.html",
       "/people/Masters/SamuelIsaac.html"
-    ]
-  },
-  {
-    "listing": "/index.html",
-    "items": [
-      "/people/supervisors/MoulayAkhloufi.html",
-      "/people/supervisors/JeffBoisvert.html",
-      "/people/supervisors/LauraChasmer.html",
-      "/people/supervisors/RichardFournier.html",
-      "/people/supervisors/ChrisHopkinson.html",
-      "/people/supervisors/PatrickJames.html"
     ]
   }
 ]
