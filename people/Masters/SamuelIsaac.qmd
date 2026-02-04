@@ -11,7 +11,7 @@ about:
   #- text: GitHub
   #  href: https://github.com/yourgithub
   - text: Email
-  href: samuel.isaac@mail.utoronto.ca
+	href: samuel.isaac@mail.utoronto.ca
 ---
 
 ::: {#person-profile}
