@@ -7,10 +7,10 @@ toc: false
 about:
   id: person-profile
   template: jolla
-  #links:
+  links:
   #- text: GitHub
   #  href: https://github.com/yourgithub
-  text: Email
+  - text: Email
   href: samuel.isaac@mail.utoronto.ca
 ---
 
@@ -19,4 +19,4 @@ about:
 
 ## Biography
 
-Samuel is a masters student with the JamesLab focusing on improving operational wildfire simulation and risk modelling tools with LiDAR fuel metrics. He is specifically interested in new applications in Single Photon LiDAR technology to improve wildfire resiliency in Canada. He completed his undergrad in forest conservation science and mathematics in 2025, supporting the James Lab as research assistant since 2023. His previous work involved cellular automata forest landscape and fire simulation models, timber-conservation trade-offs, and boreal disturbance interactions. Outside of his research, Samuel enjoys cooking, hiking, and live music.
+Samuel is a masters student with the JamesLab focusing on improving operational wildfire simulation and risk modelling tools with LiDAR fuel metrics. He is specifically interested in new applications in Single Photon LiDAR technology to improve wildfire resiliency in Canada. He completed his undergrad in forest conservation science and mathematics in 2025, supporting the James Lab as research assistant since 2023. His previous work involved cellular automata forest landscape and fire simulation models, timber-conservation trade-offs, and boreal disturbance interactions.
