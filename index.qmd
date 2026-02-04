@@ -23,7 +23,7 @@ listing:
 **Advancing Forest Fuels Characterization Using Lidar**
 :::
 ::: image-credit
-image credit: xxxxx
+image credit: Matthew Corbett / OMNR
 :::
 :::::::::::::::::::::: home-body
 \
@@ -31,7 +31,7 @@ image credit: xxxxx
 
 :::::: {.grid .centre-items}
 ::: g-col-5
-![image credit: xxxxx](photos/HomePage/FireUpCloseMC.jpg)
+![image credit: Matthew Corbett / OMNR](photos/HomePage/FireUpCloseMC.jpg)
 :::
 
 :::: g-col-7
@@ -115,7 +115,7 @@ Funded through **Natural Resources Canada's Wildfire Resilient Futures Initiativ
 \
 \
 
-![image credit: xxxxx](photos/HomePage/FireAfar2MC.jpg)
+![image credit: Matthew Corbett / OMNR](photos/HomePage/FireAfar2MC.jpg)
 
 :::::::::::::::::::::: home-body
 \
