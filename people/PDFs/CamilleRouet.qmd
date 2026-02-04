@@ -2,7 +2,7 @@
 title: "Camille Rouet"
 sortby: "Rouet, Camille"
 subtitle: "Université de Sherbrooke"
-image: ../../photos/people/DefaultPic.png
+image: ../../photos/people/CamilleRouet.jpg
 toc: false
 about:
   id: person-profile
@@ -17,6 +17,10 @@ about:
 ::: {#person-profile}
 :::
 
+Camille Rouet, Université de Sherbrooke, Faculté de Lettres et Sciences Humaines, Département de Géomatique Appliquée
+
 ## Biography
 
-Biography coming...
+Camille’s research focuses on the role of tree species diversity in the functioning of forest ecosystems in the context of climate change. To advance our understanding of the diversity-functioning relationship, he develops cutting-edge modeling and remote-sensing tools that aim to accurately capture the distribution of biomass in the canopy.
+
+As part of Richard Fournier’s lab, he develops LVOX, an algorithm which converts lidar-based point clouds into 3D grids that indicate the distribution and density of vegetation. While point density is biased by the nature of measurements (occlusion, heterogeneous sampling…), vegetation density is intended to be faithful to the true spatial distribution of biomass. As harvesting leaf area at the forest scale is practically out of reach, Camille evaluates the performance of LVOX by using lidar simulations on virtual plots, which serve as synthetic ground-truth. Additionally, he seeks to characterize the residual error patterns of LVOX by comparing vegetation density profiles derived from different modality of acquisition (fixed, mobile, aerial, and drone-lifted lidar).

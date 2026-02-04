@@ -14,5 +14,5 @@ Daniels Faculty<br> University of Toronto<br> 33 Willcocks Street<br> Toronto, O
 ::::
 
 ::: image-credit
-image credit: xxxxx
+image credit: Matthew Corbett / OMNR
 :::
