@@ -2,7 +2,7 @@
 title: "Erfan Hasanpour Zaryabi"
 sortby: "Hasanpour Zaryabi, Erfan"
 subtitle: "University of Alberta"
-image: ../../photos/people/DefaultPic.png
+image: ../../photos/people/ErfanHasanpourZaryabi.jpeg
 toc: false
 about:
   id: person-profile
@@ -19,4 +19,4 @@ about:
 
 ## Biography
 
-Biography coming...
+Erfan Hasanpour Zaryabi is a PhD student in the Department of Civil and Environmental Engineering at the University of Alberta. He holds both a Bachelor’s and a Master’s degree in Civil Engineering with a specialization in Geomatics. His research focuses on developing generative artificial intelligence models for geospatial data, including LiDAR and satellite imagery, to enhance data quality for applications such as fuel mapping and wildfire behavior prediction.
