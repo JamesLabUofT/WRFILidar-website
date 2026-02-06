@@ -25,7 +25,7 @@
     "href": "people/PhDs/ErfanZaryabi.html#biography",
     "title": "Erfan Hasanpour Zaryabi",
     "section": "Biography",
-    "text": "Biography\nBiography coming…"
+    "text": "Biography\nErfan Hasanpour Zaryabi is a PhD student in the Department of Civil and Environmental Engineering at the University of Alberta. He holds both a Bachelor’s and a Master’s degree in Civil Engineering with a specialization in Geomatics. His research focuses on developing generative artificial intelligence models for geospatial data, including LiDAR and satellite imagery, to enhance data quality for applications such as fuel mapping and wildfire behavior prediction."
   },
   {
     "objectID": "people/Masters/FynnFraser.html#biography",
@@ -86,23 +86,23 @@
   {
     "objectID": "technology.html",
     "href": "technology.html",
-    "title": "technology",
+    "title": "Technology",
     "section": "",
-    "text": "Much of the data used for this project is collected through our various lidar sensors.\n\n\nLaura Chasmer and Chris Hopkinson at the University of Lethbridge have an in-house Teledyne Optech Titan sensor \n\n\n\nUleth, UofA, Moncton?\n\n\n\nUSherbrooke, UofT?\n\n\n\nUleth, Usherbrooke? Patrick James’ team at the University of Toronto uses a Leica BLK360 Gen1 TLS lidar scanner.\n\n\n\nThe James Lab’s BLK360 TLS in NorthWestern Ontario"
+    "text": "In order to meet our research objectives, we need access to many lidar data sets. Much of the data used for this project is collected through our various lidar sensors:\n\n\nAerial lidar (ALS), enables very large spatial coverage. Laura Chasmer and Chris Hopkinson at the University of Lethbridge collect ALS data with their in-house Teledyne Optech Titan sensor.\n\n\n\nProject PIs Laura Chasmer and Chris Hopkinson calibrating their Titan sensor\n\n\n\n\n\nRemotely Piloted Aircraft Systems (RPAS) are an excellent middle-ground between ALS and terrestrial lidar. Typically drone-mounted, lidar sensors will capture higher density point clouds than ALS, although at a smaller spatial scale.\n\n\n\nProject PI Chris Hopkinson collecting RPAS lidar in a post-burn research plot\n\n\n\n\n\nTerrestrial and mobile lidar systems trade spatial coverage for higher point cloud density. Whether in a fixed position set atop a tripod (terrestrial lidar scanners - TLS), or moving through the forest (mobile lidar scanners - MLS), provide rich data, and are typically thought to better capture subcanopy structure.\n\n\n\nThe James Lab’s BLK360 TLS in a jack pine stand in Northwestern Ontario\n\n\n\n\n\nWe are lucky to collaborate with many scientists and foresters that operate lidar scanning equipment. In addition, we use publicly available data acquired by federal and provincial government agencies."
   },
   {
     "objectID": "technology.html#data-collection",
     "href": "technology.html#data-collection",
-    "title": "technology",
+    "title": "Technology",
     "section": "",
-    "text": "Much of the data used for this project is collected through our various lidar sensors.\n\n\nLaura Chasmer and Chris Hopkinson at the University of Lethbridge have an in-house Teledyne Optech Titan sensor \n\n\n\nUleth, UofA, Moncton?\n\n\n\nUSherbrooke, UofT?\n\n\n\nUleth, Usherbrooke? Patrick James’ team at the University of Toronto uses a Leica BLK360 Gen1 TLS lidar scanner.\n\n\n\nThe James Lab’s BLK360 TLS in NorthWestern Ontario"
+    "text": "In order to meet our research objectives, we need access to many lidar data sets. Much of the data used for this project is collected through our various lidar sensors:\n\n\nAerial lidar (ALS), enables very large spatial coverage. Laura Chasmer and Chris Hopkinson at the University of Lethbridge collect ALS data with their in-house Teledyne Optech Titan sensor.\n\n\n\nProject PIs Laura Chasmer and Chris Hopkinson calibrating their Titan sensor\n\n\n\n\n\nRemotely Piloted Aircraft Systems (RPAS) are an excellent middle-ground between ALS and terrestrial lidar. Typically drone-mounted, lidar sensors will capture higher density point clouds than ALS, although at a smaller spatial scale.\n\n\n\nProject PI Chris Hopkinson collecting RPAS lidar in a post-burn research plot\n\n\n\n\n\nTerrestrial and mobile lidar systems trade spatial coverage for higher point cloud density. Whether in a fixed position set atop a tripod (terrestrial lidar scanners - TLS), or moving through the forest (mobile lidar scanners - MLS), provide rich data, and are typically thought to better capture subcanopy structure.\n\n\n\nThe James Lab’s BLK360 TLS in a jack pine stand in Northwestern Ontario\n\n\n\n\n\nWe are lucky to collaborate with many scientists and foresters that operate lidar scanning equipment. In addition, we use publicly available data acquired by federal and provincial government agencies."
   },
   {
     "objectID": "technology.html#data-processing",
     "href": "technology.html#data-processing",
-    "title": "technology",
+    "title": "Technology",
     "section": "Data Processing",
-    "text": "Data Processing\nThe high density lidar data our teams work with require heavy computational equipment. The data takes a lot of space, requiring large storage solutions, as well as machines with a lot of memory. Some of the computation we do is on our own hardware, such as the James Lab computation server. We also have access to the Digital Research Alliance of Canada’s supercomputers.\n\n\n\nThe James Lab’s Computation Server"
+    "text": "Data Processing\nThe high density lidar data our teams work with require heavy computational equipment. The data takes a lot of space, requiring large storage solutions, as well as machines with a lot of memory to read in the data during analysis. Some of the computation we do is on our own hardware, but we also have access to the Digital Research Alliance of Canada’s supercomputers.\n\n\n\nThe James Lab’s Computation Server"
   },
   {
     "objectID": "index.html",
