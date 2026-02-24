@@ -2,7 +2,7 @@
 title: "Joseph Silva"
 sortby: "Silva, Joseph"
 subtitle: "University of Lethbridge"
-image: ../../photos/people/DefaultPic.png
+image: ../../photos/people/JoSilva.JPG
 toc: false
 about:
   id: person-profile
@@ -19,4 +19,4 @@ about:
 
 ## Biography
 
-Biography coming...
+Joseph is a PhD student in the Department of Geography and Environment at the University of Lethbridge. He has a BSc in Forestry and an MSc in Ecology. Joseph worked as a planning forester before starting his PhD, which focuses on how fire regimes in northern Saskatchewan are changing, how this affects forest resilience, and ways managers can mitigate negative effects. Joseph is using airborne lidar data to characterize fuels around a northern Indigenous community and working with community members and fire managers to co-develop fuel mitigation strategies that can be tested using fire behaviour models.
