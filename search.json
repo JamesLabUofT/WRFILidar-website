@@ -18,7 +18,7 @@
     "href": "people/Staff/LeoJourdan.html#biography",
     "title": "Léo Jourdan",
     "section": "Biography",
-    "text": "Biography\nLéo Jourdan is a Research Assistant in the James Lab at the University of Toronto’s Institute of Forestry and Conservation and is the project coordinator for this research program. Léo has a BSc in Computer Science and Mathematics, and recently completed his MScF degree at the University of Toronto, in which he characterized fuels using Terrestrial Lidar, and studied the impact of jack pine budworm outbreaks on fuel structure."
+    "text": "Biography\nLéo Jourdan is a Research Associate in the James Lab at the University of Toronto’s Institute of Forestry and Conservation and is the project coordinator for this research program. Léo has a BSc in Computer Science and Mathematics, and completed his MScF degree at the University of Toronto in 2025, in which he characterized fuels using Terrestrial Lidar, and studied the impact of jack pine budworm outbreaks on fuel structure."
   },
   {
     "objectID": "people/PhDs/ErfanZaryabi.html#biography",
@@ -28,95 +28,67 @@
     "text": "Biography\nErfan Hasanpour Zaryabi is a PhD student in the Department of Civil and Environmental Engineering at the University of Alberta. He holds both a Bachelor’s and a Master’s degree in Civil Engineering with a specialization in Geomatics. His research focuses on developing generative artificial intelligence models for geospatial data, including LiDAR and satellite imagery, to enhance data quality for applications such as fuel mapping and wildfire behavior prediction."
   },
   {
-    "objectID": "people/Masters/FynnFraser.html#biography",
-    "href": "people/Masters/FynnFraser.html#biography",
-    "title": "Fynn De Vuono-Fraser",
+    "objectID": "people/Masters/NatalieKrizan.html#biography",
+    "href": "people/Masters/NatalieKrizan.html#biography",
+    "title": "Natalie Krizan",
     "section": "Biography",
-    "text": "Biography\nFynn is a statistician with a strong interest in environmental applications and was introduced to forestry through his summer job as a tree planter. He is currently studying harvested forest fuel structure and fire behaviour through LiDAR scanning and prescribed burns, to determine how harvesting can be utilized to mitigate wildfire risk."
+    "text": "Biography\nNatalie Krizan is an MSc Geography student at the University of Lethbridge, supervised by Dr. Laura Chasmer (Western University) and Dr. Raphaël Chavardès (NRCan). She completed her BSc in Environmental Science in 2024. During her final year, she joined the Chasmer lab as an NSERC undergraduate summer research assistant (USRA), conducting a project using time-series RPAS lidar to determine tree fall rates following a high severity fire in Waterton Lakes National Park, Alberta.\nNatalie is interested in the impact of altered fuels on fire severity, and in the human and social dimensions of fire. Her MSc project involves using pre- and post-fire airborne laser scanning (lidar) data to assess biomass loss due to combustion from the 2022 Chetamon Fire in Jasper National Park, Alberta. The park has been impacted by a devastating Mountain Pine Beetle epidemic, as well as prolonged fire suppression and exclusion. Modelling stand characteristics and severity of fire impacts for forests with these altered fuel conditions is challenging. This physics-based approach using lidar for biomass modelling provides a solution to overcome those limitations. Natalie is working with LidarForFuel to estimate the difference in canopy fuel load for above-ground biomass loss, and she is modelling below-ground biomass loss using segmentation and predictive machine learning. From this, she will derive estimates of short-term carbon emissions from combustion, and assess the range of variability of impacts from the Chetamon Fire for areas with altered fuels."
   },
   {
-    "objectID": "people/supervisors/MoulayAkhloufi.html",
-    "href": "people/supervisors/MoulayAkhloufi.html",
-    "title": "Moulay Akhloufi",
+    "objectID": "people/Masters/SamuelIsaac.html",
+    "href": "people/Masters/SamuelIsaac.html",
+    "title": "Samuel Isaac",
+    "section": "",
+    "text": "Email"
+  },
+  {
+    "objectID": "people/Masters/SamuelIsaac.html#biography",
+    "href": "people/Masters/SamuelIsaac.html#biography",
+    "title": "Samuel Isaac",
+    "section": "Biography",
+    "text": "Biography\nSamuel is a masters student with the JamesLab focusing on improving operational wildfire simulation and risk modelling tools with LiDAR fuel metrics. He is specifically interested in new applications in Single Photon LiDAR technology to improve wildfire resiliency in Canada. He completed his undergrad in forest conservation science and mathematics in 2025, supporting the James Lab as research assistant since 2023. His previous work involved cellular automata forest landscape and fire simulation models, timber-conservation trade-offs, and boreal disturbance interactions."
+  },
+  {
+    "objectID": "people/supervisors/PatrickJames.html",
+    "href": "people/supervisors/PatrickJames.html",
+    "title": "Patrick James",
     "section": "",
     "text": "Lab website"
   },
   {
-    "objectID": "people/supervisors/MoulayAkhloufi.html#biography",
-    "href": "people/supervisors/MoulayAkhloufi.html#biography",
-    "title": "Moulay Akhloufi",
+    "objectID": "people/supervisors/PatrickJames.html#biography",
+    "href": "people/supervisors/PatrickJames.html#biography",
+    "title": "Patrick James",
     "section": "Biography",
-    "text": "Biography\nMoulay Akhloufi has a PhD (Laval University) and a MScA (Ecole Polytechnique de Montreal), both in Electrical Engineering with focus in computer vision, robotics and machine learning. He also holds an MBA from Laval University. After more than 15 years of industrial R&D and technology transfer experience in Matrox ES and CRVI, he joined the Computer Science Department of Université de Moncton. He founded the Perception, Robotics and Intelligent Machines (PRIME) research group with the aim to develop advanced AI research, train highly qualified personnel in this area, and support the industry in acquiring advanced AI solutions to solve their problems."
+    "text": "Biography\nPatrick James completed his BSc and PhD at the University of Toronto and undertook a post-doc at the University of Alberta. After several years working at the Université de Montreal, he returned to Daniels Forestry at the University of Toronto. His varied research interests include interactions among forest disturbances, insect outbreaks, wildfire, spatial genetic consequences of outbreaking populations, landscape genetics, and community ecology."
   },
   {
-    "objectID": "people/supervisors/JeffBoisvert.html",
-    "href": "people/supervisors/JeffBoisvert.html",
-    "title": "Jeff Boisvert",
+    "objectID": "people/supervisors/RichardFournier.html",
+    "href": "people/supervisors/RichardFournier.html",
+    "title": "Richard Fournier",
+    "section": "",
+    "text": "About Richard"
+  },
+  {
+    "objectID": "people/supervisors/RichardFournier.html#biography",
+    "href": "people/supervisors/RichardFournier.html#biography",
+    "title": "Richard Fournier",
+    "section": "Biography",
+    "text": "Biography\nLes travaux de recherches de Richard Fournier concernent la télédétection des écosystèmes végétaux naturels tels la forêt et les milieux humides. Mon sujet privilégié est le développement d’outils d’analyse des données 3D du LiDAR terrestre dans le cadre des inventaires forestiers (le LiDAR est particulièrement bien adapté pour mesurer des paramètres autrement difficiles à obtenir). Il cherche d’ailleurs à améliorer la capacité de mesurer les couverts forestiers avec le LiDAR aéroporté et d’autres outils de télédétection comme les images satellitaires optique/infrarouge de toutes les résolutions spatiales. Il consacre finalement un certain temps sur des études portant sur des problématiques de conservation des écosystèmes et l’utilisation d’outils géomatiques pour la gestion par bassin versant."
+  },
+  {
+    "objectID": "people/supervisors/ChrisHopkinson.html",
+    "href": "people/supervisors/ChrisHopkinson.html",
+    "title": "Chris Hopkinson",
     "section": "",
     "text": "Lab website"
   },
   {
-    "objectID": "people/supervisors/JeffBoisvert.html#biography",
-    "href": "people/supervisors/JeffBoisvert.html#biography",
-    "title": "Jeff Boisvert",
+    "objectID": "people/supervisors/ChrisHopkinson.html#biography",
+    "href": "people/supervisors/ChrisHopkinson.html#biography",
+    "title": "Chris Hopkinson",
     "section": "Biography",
-    "text": "Biography\nJeff Boisvert is a professor in Civil and Environmental Engineering at the University of Alberta and co-director of the Centre for Computational Geostatistics (CCG). His research interests concentrate on geostatistical numerical modeling and uncertainty management with a focus on mining, petroleum, and wildland fire. Numerical modeling is concerned with generating a set of spatial models of variables such as mineral grade, contaminates, flow properties, fire behavior, etc. These models are used to make important engineering decisions in mine design, exploration campaign design, wildland fire management, preplanning, well placement, well management and contaminate cleanup strategies. Uncertainty management focuses on making these engineering decisions in an optimal way that maximizes value, minimizes environmental impact, and minimizes risk. Numerical modeling and uncertainty management are often framed as optimization problems and so he often use machine learning, artificial intelligence, and optimization techniques to improve solutions."
-  },
-  {
-    "objectID": "people/supervisors/LauraChasmer.html",
-    "href": "people/supervisors/LauraChasmer.html",
-    "title": "Laura Chasmer",
-    "section": "",
-    "text": "Lab website"
-  },
-  {
-    "objectID": "people/supervisors/LauraChasmer.html#biography",
-    "href": "people/supervisors/LauraChasmer.html#biography",
-    "title": "Laura Chasmer",
-    "section": "Biography",
-    "text": "Biography\nLaura Chasmer is an Assistant Professor at the University of Lethbridge and previously an Alberta Innovates Research Fellow. Her interests include using geospatial, hydro-meteorological and field data to better understand Boreal wetland, forest and discontinuous permafrost changes within natural and disturbed environments. She’s also interested in the environmental processes that both influence and are affected by these changes. Her research uses a broad range of cutting-edge methodologies from individual tree/plant to plot, stand, and extrapolation of land surface processes to regional scales. She has led and co-authored more than 60 peer reviewed journal articles and proceedings papers."
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "image credit: Matthew Corbett / OMNR\n\n\n\nOur research team is national in scope and is composed of researchers from six universities:\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nimage credit: Matthew Corbett / OMNR\n\n\n\n\n\nThe WRFI lidar research project is being suppported through funding from Natural Resources Canada’s Wildfire Resilient Futures Initiative (WRFI), as well as contributions from partners and collaborators:\n\n\n\n\n\n\n\n\n\nWhitefeather Forest Initiative\n\n\n\n\n\n\n\nApexRMS\n\n\n\n\n\n\n\nCanadian Forest Service\n\n\n\n\n\n\n\nOntario Ministry of Natural Resources\n\n\n\n\n\n\n\n\nimage credit: Matthew Corbett / OMNR"
-  },
-  {
-    "objectID": "technology.html",
-    "href": "technology.html",
-    "title": "Technology",
-    "section": "",
-    "text": "In order to meet our research objectives, we need access to many lidar data sets. Much of the data used for this project is collected through our various lidar sensors:\n\n\nAerial lidar (ALS), enables very large spatial coverage. Laura Chasmer and Chris Hopkinson at the University of Lethbridge collect ALS data with their in-house Teledyne Optech Titan sensor.\n\n\n\nProject PIs Laura Chasmer and Chris Hopkinson calibrating their Titan sensor\n\n\n\n\n\nRemotely Piloted Aircraft Systems (RPAS) are an excellent middle-ground between ALS and terrestrial lidar. Typically drone-mounted, lidar sensors will capture higher density point clouds than ALS, although at a smaller spatial scale.\n\n\n\nProject PI Chris Hopkinson collecting RPAS lidar in a post-burn research plot\n\n\n\n\n\nTerrestrial and mobile lidar systems trade spatial coverage for higher point cloud density. Whether in a fixed position set atop a tripod (terrestrial lidar scanners - TLS), or moving through the forest (mobile lidar scanners - MLS), provide rich data, and are typically thought to better capture subcanopy structure.\n\n\n\nThe James Lab’s BLK360 TLS in a jack pine stand in Northwestern Ontario\n\n\n\n\n\nWe are lucky to collaborate with many scientists and foresters that operate lidar scanning equipment. In addition, we use publicly available data acquired by federal and provincial government agencies."
-  },
-  {
-    "objectID": "technology.html#data-collection",
-    "href": "technology.html#data-collection",
-    "title": "Technology",
-    "section": "",
-    "text": "In order to meet our research objectives, we need access to many lidar data sets. Much of the data used for this project is collected through our various lidar sensors:\n\n\nAerial lidar (ALS), enables very large spatial coverage. Laura Chasmer and Chris Hopkinson at the University of Lethbridge collect ALS data with their in-house Teledyne Optech Titan sensor.\n\n\n\nProject PIs Laura Chasmer and Chris Hopkinson calibrating their Titan sensor\n\n\n\n\n\nRemotely Piloted Aircraft Systems (RPAS) are an excellent middle-ground between ALS and terrestrial lidar. Typically drone-mounted, lidar sensors will capture higher density point clouds than ALS, although at a smaller spatial scale.\n\n\n\nProject PI Chris Hopkinson collecting RPAS lidar in a post-burn research plot\n\n\n\n\n\nTerrestrial and mobile lidar systems trade spatial coverage for higher point cloud density. Whether in a fixed position set atop a tripod (terrestrial lidar scanners - TLS), or moving through the forest (mobile lidar scanners - MLS), provide rich data, and are typically thought to better capture subcanopy structure.\n\n\n\nThe James Lab’s BLK360 TLS in a jack pine stand in Northwestern Ontario\n\n\n\n\n\nWe are lucky to collaborate with many scientists and foresters that operate lidar scanning equipment. In addition, we use publicly available data acquired by federal and provincial government agencies."
-  },
-  {
-    "objectID": "technology.html#data-processing",
-    "href": "technology.html#data-processing",
-    "title": "Technology",
-    "section": "Data Processing",
-    "text": "Data Processing\nThe high density lidar data our teams work with require heavy computational equipment. The data takes a lot of space, requiring large storage solutions, as well as machines with a lot of memory to read in the data during analysis. Some of the computation we do is on our own hardware, but we also have access to the Digital Research Alliance of Canada’s supercomputers.\n\n\n\nThe James Lab’s Computation Server"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "WRFI Lidar",
-    "section": "",
-    "text": "Advancing Forest Fuels Characterization Using Lidar\n\n\nimage credit: Matthew Corbett / OMNR\n\n\n\n\n\n\n\n\n\n\nimage credit: Matthew Corbett / OMNR\n\n\n\n\n\nWildfire activity is increasing in Canada due to climate change, posing a significant threat to ecosystems, communities and infrastructure.\n\n\nProactive wildfire risk assessment and mitigation strategies are necessary to better understand and respond to these changes.\n\n\n\n\n\n\n\n\n\nCentral to fire mitigation strategies are the characterization of forest fuels (combustible vegetation, litter, and wood debris) and methods to link those fuels to expected fire behaviour (e.g. fire intensity, rate of spread).\n\n\nFunded through Natural Resources Canada’s Wildfire Resilient Futures Initiative (WRFI), our research project aims to address the need to quantify fuel structures to improve understanding of fire behaviour in Canada’s changing forest environments.\n\n\n\n\n\n\nimage credit: Patrick James\n\n\n\n\n\n\n\n\n\n\n\nOur research project is organized around four overarching goals.\nRead more about them here.\n\n\n\n\n\nOptimizing ground-based lidar protocols\n\n\n\n\n\nQuantifying fuel connectivity\n\n\n\n\n\n\n\nUpscaling from terrestrial to airborne lidar\n\n\n\n\n\nCreating novel tools for risk assessment\n\n\n\n\n\n\n\n\n\n\nimage credit: Matthew Corbett / OMNR\n\n\n\n\n\n\n\nOur team\nSee the full list of researchers working toward our goals here.\n\n\n\n\n\n\n\n\n\n\nMoulay Akhloufi\n\n\nUniversité de Moncton\n\n\n\n\n\n\n\n\n\n\n\n\nJeff Boisvert\n\n\nUniversity of Alberta\n\n\n\n\n\n\n\n\n\n\n\n\nLaura Chasmer\n\n\nWestern University\n\n\n\n\n\n\n\n\n\n\n\n\nRichard Fournier\n\n\nUniversité de Sherbrooke\n\n\n\n\n\n\n\n\n\n\n\n\nChris Hopkinson\n\n\nWestern University\n\n\n\n\n\n\n\n\n\n\n\n\nPatrick James\n\n\nUniversity of Toronto\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "contact.html",
-    "href": "contact.html",
-    "title": "Contact",
-    "section": "",
-    "text": "Prof. Patrick James\npatrick.james”_at_“utoronto.ca\nDaniels Faculty University of Toronto 33 Willcocks Street Toronto, ON M5S 3B3\n\n\n\nimage credit: Matthew Corbett / OMNR"
+    "text": "Biography\nChris Hopkinson is the Campus Alberta Innovates Program (CAIP) Research Chair in Terrestrial Ecosystems Remote Sensing. He was appointed to this position in 2013 after spending a year as a visiting environmental scientist with the Commonwealth Scientific and Industrial Research Organisation (CSIRO) in Canberra, Australia. Prior to this he led the airborne lidar research and outreach activities of the Canadian Consortium for Lidar Environmental Applications Research (C-CLEAR) while employed as a research scientist and lecturer at the Applied Geomatics Research Group in Nova Scotia."
   },
   {
     "objectID": "team.html",
@@ -158,63 +130,98 @@
     "href": "team.html#masters-students",
     "title": "Our team",
     "section": "Masters students",
-    "text": "Masters students\n\n\n\n\n\n\n\n\n\n\nFynn De Vuono-Fraser\n\n\nUniversity of Toronto\n\n\n\n\n\n\n\n\n\n\n\n\nSamuel Isaac\n\n\nUniversity of Toronto\n\n\n\n\n\nNo matching items"
+    "text": "Masters students\n\n\n\n\n\n\n\n\n\n\nFynn De Vuono-Fraser\n\n\nUniversity of Toronto\n\n\n\n\n\n\n\n\n\n\n\n\nSamuel Isaac\n\n\nUniversity of Toronto\n\n\n\n\n\n\n\n\n\n\n\n\nNatalie Krizan\n\n\nUniversity of Lethbridge\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "people/supervisors/ChrisHopkinson.html",
-    "href": "people/supervisors/ChrisHopkinson.html",
-    "title": "Chris Hopkinson",
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "Prof. Patrick James\npatrick.james”_at_“utoronto.ca\nDaniels Faculty University of Toronto 33 Willcocks Street Toronto, ON M5S 3B3\n\n\n\nimage credit: Matthew Corbett / OMNR"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "WRFI Lidar",
+    "section": "",
+    "text": "Advancing Forest Fuels Characterization Using Lidar\n\n\nimage credit: Matthew Corbett / OMNR\n\n\n\n\n\n\n\n\n\n\nimage credit: Matthew Corbett / OMNR\n\n\n\n\n\nWildfire activity is increasing in Canada due to climate change, posing a significant threat to ecosystems, communities and infrastructure.\n\n\nProactive wildfire risk assessment and mitigation strategies are necessary to better understand and respond to these changes.\n\n\n\n\n\n\n\n\n\nCentral to fire mitigation strategies are the characterization of forest fuels (combustible vegetation, litter, and wood debris) and methods to link those fuels to expected fire behaviour (e.g. fire intensity, rate of spread).\n\n\nFunded through Natural Resources Canada’s Wildfire Resilient Futures Initiative (WRFI), our research project aims to address the need to quantify fuel structures to improve understanding of fire behaviour in Canada’s changing forest environments.\n\n\n\n\n\n\nimage credit: Patrick James\n\n\n\n\n\n\n\n\n\n\n\nOur research project is organized around four overarching goals.\nRead more about them here.\n\n\n\n\n\nOptimizing ground-based lidar protocols\n\n\n\n\n\nQuantifying fuel connectivity\n\n\n\n\n\n\n\nUpscaling from terrestrial to airborne lidar\n\n\n\n\n\nCreating novel tools for risk assessment\n\n\n\n\n\n\n\n\n\n\nimage credit: Matthew Corbett / OMNR\n\n\n\n\n\n\n\nOur team\nSee the full list of researchers working toward our goals here.\n\n\n\n\n\n\n\n\n\n\nMoulay Akhloufi\n\n\nUniversité de Moncton\n\n\n\n\n\n\n\n\n\n\n\n\nJeff Boisvert\n\n\nUniversity of Alberta\n\n\n\n\n\n\n\n\n\n\n\n\nLaura Chasmer\n\n\nWestern University\n\n\n\n\n\n\n\n\n\n\n\n\nRichard Fournier\n\n\nUniversité de Sherbrooke\n\n\n\n\n\n\n\n\n\n\n\n\nChris Hopkinson\n\n\nWestern University\n\n\n\n\n\n\n\n\n\n\n\n\nPatrick James\n\n\nUniversity of Toronto\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "technology.html",
+    "href": "technology.html",
+    "title": "Technology",
+    "section": "",
+    "text": "In order to meet our research objectives, we need access to many lidar data sets. Much of the data used for this project is collected through our various lidar sensors:\n\n\nAerial lidar (ALS), enables very large spatial coverage. Laura Chasmer and Chris Hopkinson at the University of Lethbridge collect ALS data with their in-house Teledyne Optech Titan sensor.\n\n\n\nProject PIs Laura Chasmer and Chris Hopkinson calibrating their Titan sensor\n\n\n\n\n\nRemotely Piloted Aircraft Systems (RPAS) are an excellent middle-ground between ALS and terrestrial lidar. Typically drone-mounted, lidar sensors will capture higher density point clouds than ALS, although at a smaller spatial scale.\n\n\n\nProject PI Chris Hopkinson collecting RPAS lidar in a post-burn research plot\n\n\n\n\n\nTerrestrial and mobile lidar systems trade spatial coverage for higher point cloud density. Whether in a fixed position set atop a tripod (terrestrial lidar scanners - TLS), or moving through the forest (mobile lidar scanners - MLS), provide rich data, and are typically thought to better capture subcanopy structure.\n\n\n\nThe James Lab’s BLK360 TLS in a jack pine stand in Northwestern Ontario\n\n\n\n\n\nWe are lucky to collaborate with many scientists and foresters that operate lidar scanning equipment. In addition, we use publicly available data acquired by federal and provincial government agencies."
+  },
+  {
+    "objectID": "technology.html#data-collection",
+    "href": "technology.html#data-collection",
+    "title": "Technology",
+    "section": "",
+    "text": "In order to meet our research objectives, we need access to many lidar data sets. Much of the data used for this project is collected through our various lidar sensors:\n\n\nAerial lidar (ALS), enables very large spatial coverage. Laura Chasmer and Chris Hopkinson at the University of Lethbridge collect ALS data with their in-house Teledyne Optech Titan sensor.\n\n\n\nProject PIs Laura Chasmer and Chris Hopkinson calibrating their Titan sensor\n\n\n\n\n\nRemotely Piloted Aircraft Systems (RPAS) are an excellent middle-ground between ALS and terrestrial lidar. Typically drone-mounted, lidar sensors will capture higher density point clouds than ALS, although at a smaller spatial scale.\n\n\n\nProject PI Chris Hopkinson collecting RPAS lidar in a post-burn research plot\n\n\n\n\n\nTerrestrial and mobile lidar systems trade spatial coverage for higher point cloud density. Whether in a fixed position set atop a tripod (terrestrial lidar scanners - TLS), or moving through the forest (mobile lidar scanners - MLS), provide rich data, and are typically thought to better capture subcanopy structure.\n\n\n\nThe James Lab’s BLK360 TLS in a jack pine stand in Northwestern Ontario\n\n\n\n\n\nWe are lucky to collaborate with many scientists and foresters that operate lidar scanning equipment. In addition, we use publicly available data acquired by federal and provincial government agencies."
+  },
+  {
+    "objectID": "technology.html#data-processing",
+    "href": "technology.html#data-processing",
+    "title": "Technology",
+    "section": "Data Processing",
+    "text": "Data Processing\nThe high density lidar data our teams work with require heavy computational equipment. The data takes a lot of space, requiring large storage solutions, as well as machines with a lot of memory to read in the data during analysis. Some of the computation we do is on our own hardware, but we also have access to the Digital Research Alliance of Canada’s supercomputers.\n\n\n\nThe James Lab’s Computation Server"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "image credit: Matthew Corbett / OMNR\n\n\n\nOur research team is national in scope and is composed of researchers from six universities:\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nimage credit: Matthew Corbett / OMNR\n\n\n\n\n\nThe WRFI lidar research project is being suppported through funding from Natural Resources Canada’s Wildfire Resilient Futures Initiative (WRFI), as well as contributions from partners and collaborators:\n\n\n\n\n\n\n\n\n\nWhitefeather Forest Initiative\n\n\n\n\n\n\n\nApexRMS\n\n\n\n\n\n\n\nCanadian Forest Service\n\n\n\n\n\n\n\nOntario Ministry of Natural Resources\n\n\n\n\n\n\n\n\nimage credit: Matthew Corbett / OMNR"
+  },
+  {
+    "objectID": "people/supervisors/LauraChasmer.html",
+    "href": "people/supervisors/LauraChasmer.html",
+    "title": "Laura Chasmer",
     "section": "",
     "text": "Lab website"
   },
   {
-    "objectID": "people/supervisors/ChrisHopkinson.html#biography",
-    "href": "people/supervisors/ChrisHopkinson.html#biography",
-    "title": "Chris Hopkinson",
+    "objectID": "people/supervisors/LauraChasmer.html#biography",
+    "href": "people/supervisors/LauraChasmer.html#biography",
+    "title": "Laura Chasmer",
     "section": "Biography",
-    "text": "Biography\nChris Hopkinson is the Campus Alberta Innovates Program (CAIP) Research Chair in Terrestrial Ecosystems Remote Sensing. He was appointed to this position in 2013 after spending a year as a visiting environmental scientist with the Commonwealth Scientific and Industrial Research Organisation (CSIRO) in Canberra, Australia. Prior to this he led the airborne lidar research and outreach activities of the Canadian Consortium for Lidar Environmental Applications Research (C-CLEAR) while employed as a research scientist and lecturer at the Applied Geomatics Research Group in Nova Scotia."
+    "text": "Biography\nLaura Chasmer is an Assistant Professor at the University of Lethbridge and previously an Alberta Innovates Research Fellow. Her interests include using geospatial, hydro-meteorological and field data to better understand Boreal wetland, forest and discontinuous permafrost changes within natural and disturbed environments. She’s also interested in the environmental processes that both influence and are affected by these changes. Her research uses a broad range of cutting-edge methodologies from individual tree/plant to plot, stand, and extrapolation of land surface processes to regional scales. She has led and co-authored more than 60 peer reviewed journal articles and proceedings papers."
   },
   {
-    "objectID": "people/supervisors/RichardFournier.html",
-    "href": "people/supervisors/RichardFournier.html",
-    "title": "Richard Fournier",
-    "section": "",
-    "text": "About Richard"
-  },
-  {
-    "objectID": "people/supervisors/RichardFournier.html#biography",
-    "href": "people/supervisors/RichardFournier.html#biography",
-    "title": "Richard Fournier",
-    "section": "Biography",
-    "text": "Biography\nLes travaux de recherches de Richard Fournier concernent la télédétection des écosystèmes végétaux naturels tels la forêt et les milieux humides. Mon sujet privilégié est le développement d’outils d’analyse des données 3D du LiDAR terrestre dans le cadre des inventaires forestiers (le LiDAR est particulièrement bien adapté pour mesurer des paramètres autrement difficiles à obtenir). Il cherche d’ailleurs à améliorer la capacité de mesurer les couverts forestiers avec le LiDAR aéroporté et d’autres outils de télédétection comme les images satellitaires optique/infrarouge de toutes les résolutions spatiales. Il consacre finalement un certain temps sur des études portant sur des problématiques de conservation des écosystèmes et l’utilisation d’outils géomatiques pour la gestion par bassin versant."
-  },
-  {
-    "objectID": "people/supervisors/PatrickJames.html",
-    "href": "people/supervisors/PatrickJames.html",
-    "title": "Patrick James",
+    "objectID": "people/supervisors/JeffBoisvert.html",
+    "href": "people/supervisors/JeffBoisvert.html",
+    "title": "Jeff Boisvert",
     "section": "",
     "text": "Lab website"
   },
   {
-    "objectID": "people/supervisors/PatrickJames.html#biography",
-    "href": "people/supervisors/PatrickJames.html#biography",
-    "title": "Patrick James",
+    "objectID": "people/supervisors/JeffBoisvert.html#biography",
+    "href": "people/supervisors/JeffBoisvert.html#biography",
+    "title": "Jeff Boisvert",
     "section": "Biography",
-    "text": "Biography\nPatrick James completed his BSc and PhD at the University of Toronto and undertook a post-doc at the University of Alberta. After several years working at the Université de Montreal, he returned to Daniels Forestry at the University of Toronto. His varied research interests include interactions among forest disturbances, insect outbreaks, wildfire, spatial genetic consequences of outbreaking populations, landscape genetics, and community ecology."
+    "text": "Biography\nJeff Boisvert is a professor in Civil and Environmental Engineering at the University of Alberta and co-director of the Centre for Computational Geostatistics (CCG). His research interests concentrate on geostatistical numerical modeling and uncertainty management with a focus on mining, petroleum, and wildland fire. Numerical modeling is concerned with generating a set of spatial models of variables such as mineral grade, contaminates, flow properties, fire behavior, etc. These models are used to make important engineering decisions in mine design, exploration campaign design, wildland fire management, preplanning, well placement, well management and contaminate cleanup strategies. Uncertainty management focuses on making these engineering decisions in an optimal way that maximizes value, minimizes environmental impact, and minimizes risk. Numerical modeling and uncertainty management are often framed as optimization problems and so he often use machine learning, artificial intelligence, and optimization techniques to improve solutions."
   },
   {
-    "objectID": "people/Masters/SamuelIsaac.html",
-    "href": "people/Masters/SamuelIsaac.html",
-    "title": "Samuel Isaac",
+    "objectID": "people/supervisors/MoulayAkhloufi.html",
+    "href": "people/supervisors/MoulayAkhloufi.html",
+    "title": "Moulay Akhloufi",
     "section": "",
-    "text": "Email"
+    "text": "Lab website"
   },
   {
-    "objectID": "people/Masters/SamuelIsaac.html#biography",
-    "href": "people/Masters/SamuelIsaac.html#biography",
-    "title": "Samuel Isaac",
+    "objectID": "people/supervisors/MoulayAkhloufi.html#biography",
+    "href": "people/supervisors/MoulayAkhloufi.html#biography",
+    "title": "Moulay Akhloufi",
     "section": "Biography",
-    "text": "Biography\nSamuel is a masters student with the JamesLab focusing on improving operational wildfire simulation and risk modelling tools with LiDAR fuel metrics. He is specifically interested in new applications in Single Photon LiDAR technology to improve wildfire resiliency in Canada. He completed his undergrad in forest conservation science and mathematics in 2025, supporting the James Lab as research assistant since 2023. His previous work involved cellular automata forest landscape and fire simulation models, timber-conservation trade-offs, and boreal disturbance interactions."
+    "text": "Biography\nMoulay Akhloufi has a PhD (Laval University) and a MScA (Ecole Polytechnique de Montreal), both in Electrical Engineering with focus in computer vision, robotics and machine learning. He also holds an MBA from Laval University. After more than 15 years of industrial R&D and technology transfer experience in Matrox ES and CRVI, he joined the Computer Science Department of Université de Moncton. He founded the Perception, Robotics and Intelligent Machines (PRIME) research group with the aim to develop advanced AI research, train highly qualified personnel in this area, and support the industry in acquiring advanced AI solutions to solve their problems."
+  },
+  {
+    "objectID": "people/Masters/FynnFraser.html#biography",
+    "href": "people/Masters/FynnFraser.html#biography",
+    "title": "Fynn De Vuono-Fraser",
+    "section": "Biography",
+    "text": "Biography\nFynn is a statistician with a strong interest in environmental applications and was introduced to forestry through his summer job as a tree planter. He is currently studying harvested forest fuel structure and fire behaviour through LiDAR scanning and prescribed burns, to determine how harvesting can be utilized to mitigate wildfire risk."
   },
   {
     "objectID": "people/PhDs/JoSilva.html#biography",
