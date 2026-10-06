@@ -1,0 +1,22 @@
+---
+title: "Zixuan Yang"
+sortby: "Yang, Zixuan"
+subtitle: "Western University"
+image: ../../photos/people/ZixuanYang.jpeg
+toc: false
+about:
+  id: person-profile
+  template: jolla
+  links:
+  - text: GitHub
+    href: https://github.com/yangzixuan650 
+  #- text: Email
+  #  href: mailto:youremail@utoronto.ca
+---
+
+::: {#person-profile}
+:::
+
+## Biography
+
+Zixuan completed her PhD in Statistics at Western University. Her research focuses on statistical and machine learning methods for human-caused wildfire occurrence prediction. She develops predictive models to better understand wildfire risk and improve forecasting by integrating forecast errors in the climate-related data. Her work combines statistical methodology with modern machine learning techniques to build accurate, interpretable models for environmental applications. As a postdoctoral researcher, she is excited to collaborate on developing data-driven approaches for the application of LiDAR data on wildfire behaviour analysis. 
