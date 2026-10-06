@@ -1,0 +1,23 @@
+---
+title: "Rafik Ghali"
+sortby: "Ghali, Rafik"
+subtitle: "Université de Moncton"
+image: ../../photos/people/RafikGhali.png
+toc: false
+about:
+  id: person-profile
+  template: jolla
+  #links:
+  #- text: GitHub
+  #  href: https://github.com/yourgithub
+  #- text: Email
+  #  href: mailto:youremail@utoronto.ca
+---
+
+::: {#person-profile}
+:::
+
+## Biography
+
+Rafik Ghali is an artificial intelligence researcher at the Université de Moncton. His research focuses on computer vision, deep learning, multimodal AI, generative AI, and data analysis, with applications in
+wildfire monitoring. His work includes wildfire detection and segmentation, synthetic data generation, and wildfire risk mapping. He also explores embedded AI solutions for real-time applications.
