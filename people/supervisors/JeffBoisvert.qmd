@@ -10,8 +10,8 @@ about:
   links:
   - text: Lab website
     href: https://sites.ualberta.ca/~jbb/
-  #- text: Email
-  #  href: mailto:youremail@utoronto.ca
+  - text: Email
+    href: mailto:jbb@ualberta.ca
 ---
 
 ::: {#person-profile}
