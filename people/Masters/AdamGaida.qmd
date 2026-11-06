@@ -1,0 +1,22 @@
+---
+title: "Adam Gaida"
+sortby: "Gaida, Adam"
+subtitle: "Université de Moncton"
+image: ../../photos/people/AdamGaida.jpeg
+toc: false
+about:
+  id: person-profile
+  template: jolla
+  #links:
+  #- text: GitHub
+  #  href: https://github.com/yourgithub
+  #- text: Email
+  #  href: mailto:youremail@utoronto.ca
+---
+
+::: {#person-profile}
+:::
+
+## Biography
+
+Adam Gaida is an artificial intelligence researcher and Master’s student in Computer Science at the Université de Moncton, where he is a member of the PRIME Lab under the supervision of Professor Moulay A. Akhloufi. His research focuses on computer vision, deep learning, and multimodal data analysis, with applications in wildfire management. His work includes wildfire classification, detection, and prediction using diverse data sources such as LiDAR, UAV and satellite imagery, and environmental data.
